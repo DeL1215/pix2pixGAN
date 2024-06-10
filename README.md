@@ -13,3 +13,6 @@ tensorflow-gpu            2.6.0
 numpy                     1.19.5
 
 其餘部分參見environment.yaml
+
+conda env create -f environment.yml
+快速建立環境
